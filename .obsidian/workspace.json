@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto de Investigación/Pasos iniciales del proyecto.md",
+                "file": "Hardening de Servidores/Comandos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pasos iniciales del proyecto"
+              "title": "Comandos"
             }
           }
         ],
@@ -185,26 +185,26 @@
   },
   "active": "42e2ac58adcdee61",
   "lastOpenFiles": [
+    "Seguridad en la Nube/Pasos del proyecto.md",
+    "Proyecto de Investigación/Pasos iniciales del proyecto.md",
     "Personal/Cómo usar Git.md",
     "Administración de Redes/OSPF-04-02-25.md",
     "Administración de Redes/NATs.md",
-    "Proyecto de Investigación/Pasos iniciales del proyecto.md",
     "Administración de Redes/Cómo hacer vpn.md",
     "Personal",
-    "Seguridad en la Nube/3ra catedra.md",
-    "Seguridad en la Nube/Imagenes/Pasted image 20250320092156.png",
-    "Seguridad en la Nube/Imagenes/Pasted image 20250320091220.png",
+    "Hardening de Servidores/CÁTEDRAS KPMG/3ra catedra.md",
+    "Hardening de Servidores/CÁTEDRAS KPMG/Imágenes-Capturas/Pasted image 20250320092156.png",
+    "Hardening de Servidores/CÁTEDRAS KPMG/Imágenes-Capturas/Pasted image 20250320091220.png",
     "Seguridad en la Nube/Imagenes",
     "Proyecto de Investigación",
-    "Seguridad en la Nube/Imagenes/Pasted image 20250320100038.png",
-    "Seguridad en la Nube/Imagenes/Pasted image 20250320095809.png",
-    "Seguridad en la Nube/Imagenes/Pasted image 20250320094845.png",
-    "Seguridad en la Nube/Imagenes/Pasted image 20250320093516.png",
-    "Seguridad en la Nube/Imagenes/Pasted image 20250320092904.png",
+    "Hardening de Servidores/CÁTEDRAS KPMG/Imágenes-Capturas/Pasted image 20250320100038.png",
+    "Hardening de Servidores/CÁTEDRAS KPMG/Imágenes-Capturas/Pasted image 20250320095809.png",
+    "Hardening de Servidores/CÁTEDRAS KPMG/Imágenes-Capturas/Pasted image 20250320094845.png",
+    "Hardening de Servidores/CÁTEDRAS KPMG/Imágenes-Capturas/Pasted image 20250320093516.png",
+    "Hardening de Servidores/CÁTEDRAS KPMG/Imágenes-Capturas/Pasted image 20250320092904.png",
     "Administración de Redes/Listas de control de acceso.md",
     "Administración de Redes/Vulnerabilidades de TCP y UDP.md",
     "Administración de Redes",
-    "Seguridad en la Nube/Pasos del proyecto.md",
     "Seguridad en la Nube"
   ]
 }
