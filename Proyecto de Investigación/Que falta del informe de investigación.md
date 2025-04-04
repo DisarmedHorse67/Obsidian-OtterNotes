@@ -1,0 +1,2 @@
+- Preguntas finalizadas.
+- agregar en la parte del marco teórico
