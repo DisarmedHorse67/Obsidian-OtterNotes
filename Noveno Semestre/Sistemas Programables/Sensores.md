@@ -1,0 +1,3 @@
+Funcionamiento de los sensores
+* Detección de estímulos: Los sensores detectan cambios en el entorno, como variaciones en la temperatura, presión, movimiento, etc.
+* Conversión de energía: Estos cambios son convertidos...
