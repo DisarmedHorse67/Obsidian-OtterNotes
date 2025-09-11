@@ -1,11 +1,3 @@
-
-|         | Probabilidad de Ocurrencia |     |     |     |     |
-| ------- | -------------------------- | --- | --- | --- | --- |
-| Impacto |                            |     |     |     |     |
-|         |                            |     |     |     |     |
-|         |                            |     |     |     |     |
-|         |                            |     |     |     |     |
-|         |                            |     |     |     |     |
 Falta de actualizaciones : rojo
 Falla del sistema oodo: amarillo
 Falla del S.O.: rojo
@@ -26,4 +18,6 @@ Navegación en sitios maliciosos: rojo
 Contraseñas débiles en cuentas y equipos: rojo
 Sabotajes: rojo
 Configuraciones erróneas: rojo
+robo de equipo: rojo
+
 
