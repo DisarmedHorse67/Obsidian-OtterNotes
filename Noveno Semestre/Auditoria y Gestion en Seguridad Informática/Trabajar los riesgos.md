@@ -53,3 +53,33 @@ Contención:
 * Control de actualización de usuarios --P
 * Uso de gestores de contraseñas --P
 * Uso de SSo's --P
+
+Riesgo: Ing Social
+Contención:
+* Capacitación --P
+* Crear una cultura de seguridad --P
+* Manejo de información --P
+* Contratos de confidencialidad --P
+* Monitoreo de accesos físicos y lógicos --Pro
+* Control de phishing --Pro
+* Perfil psicológicos --Pro
+* Auditorías, pruebas a los trabajadores --Proc
+
+Riesgo: Navegación en sitios maliciosos
+Contención:
+* Bloqueo de sitios maliciosos --P
+* Implementar intranet --P
+* Control de BYOD --P
+* Control de VPN --P
+* Alertas en navegación --Pro
+* Bloqueo de descargas --P
+
+Riesgo: Configuraciones erroneas
+Contención:
+* Entorno de pruebas --P
+* Respaldos --P
+* Auditorias periódicas --Pro
+* Registros, logs --P
+* Roles de usuarios --P
+* Pentest --P
+
