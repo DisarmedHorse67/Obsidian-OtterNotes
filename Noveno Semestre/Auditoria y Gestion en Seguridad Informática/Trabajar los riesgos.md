@@ -1,3 +1,5 @@
+p = política
+Pro = procedimiento
 Riesgo: Descargas eléctricas
 Contención:
 * Pararayos 
@@ -82,4 +84,3 @@ Contención:
 * Registros, logs --P
 * Roles de usuarios --P
 * Pentest --P
-
