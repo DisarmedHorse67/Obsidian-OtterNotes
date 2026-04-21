@@ -1,6 +1,0 @@
-- Recibimiento
-- Qué se le entrega
-- Acertijo inicial y se inicia el reto (pdf ind)
-- Confirmación de locación y se envía siguiente acertijo 
-- Confirmación de acertijo en lugar y se repite el paso anterior
-- posible ayuda en caso de situación particular
