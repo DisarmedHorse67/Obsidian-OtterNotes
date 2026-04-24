@@ -25,9 +25,16 @@ SMTP: Simple Mail Transfer Protocol - Servidor SMTP - Protocolo de Transferencia
 	Para ver bien los correos debes usar un cliente de correos y protocolos POP o IMAP.
 	https://www.cloudflare.com/learning/email-security/what-is-smtp/
 
-DNS: Domain Name Server - Servidor de Nombres de Dominio
-	
+DNS: Domain Name System - Sistema de Nombres de Dominio
+	Este transforma los nombres de dominio a direcciones IP, así se facilita la navegación por internet ya que los usuarios finales pueden buscar direcciones de internet mediante nombres y palabras y no mediante números separados en octetos. Este suele trabajar en un Servidor DNS el cuál es llamado al inicio de una navegación web.
+	https://www.fortinet.com/uk/resources/cyberglossary/what-is-dns
 
-DHCP
+DHCP: Dinamic Host Configuration Protocol - Protocolo de Configuración Dinámica de Host
+	Este protocolo es el encargado de asignar las direcciones IP, mascara de subred, dirección DNS y puerta de enlace a los diferentes dispositivos dentro de una red.
+	Los diferentes componentes son:
+		Server: Este es el que se usa para automatizar 
+		Client:
+		Relay:
+
 HTTP
 HTTPS
