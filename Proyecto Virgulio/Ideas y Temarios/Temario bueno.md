@@ -24,6 +24,7 @@ Linux
 	Bash(Profundizar unos dos o tres post más)
 Redes
 	Conceptos y protocolos básicos como IP, NAT, DNS, ISP y otros Importantes
+	Banderas TCP y si hay otras, otras
 	Modelo OSI completo(Algunos cuantos posts)
 	Enrutamiento
 	Aislamiento de redes, 
