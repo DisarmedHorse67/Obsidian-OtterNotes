@@ -46,3 +46,31 @@ Stages of Cyber Kill Chain
 	This is the final stage of the attack, also known as objective of the attack. This objective can be very different depend on what the attacker wants, some may want to exfiltrate confidential data, others wants to get the higher level of access to deploy some malware or ransomware.
 
 Note: Not every attack keeps a straight line over every stage, sometimes the same stage can be repeated multiple times and may not be in the same order.
+
+
+***The best actions to take to ensure a secure endpoint & EDR are:***
+- Disable LLMNR/NetBIOS.
+- Implement LAPS (Local Administrator Password Solution) and remove administrative privileges from regular users.
+- Disable or configure PowerShell in "ConstrainedLanguage" mode.
+- Enable Attack Surface Reduction (ASR) rules if using Microsoft Defender.
+- Implement whitelisting. We know this is nearly impossible to implement. Consider at least blocking execution from user-writable folders (Downloads, Desktop, AppData, etc.). These are the locations where exploits and malicious payloads will initially find themselves. Remember to also block script types such as .hta, .vbs, .cmd, .bat, .js, and similar. We need to pay attention to [LOLBin](https://lolbas-project.github.io/) files while implementing whitelisting. Do not overlook them; they are really used in the wild as initial access to bypass whitelisting.
+- Utilize host-based firewalls. As a bare minimum, block workstation-to-workstation communication and block outbound traffic to LOLBins.
+- Deploy an EDR product. At this point in time, [AMSI](https://learn.microsoft.com/en-us/windows/win32/amsi/how-amsi-helps) provides great visibility into obfuscated scripts for antimalware products to inspect the content before it gets executed. It is highly recommended that we only choose products that integrate with AMSI.
+
+***When an incident occurs, we need to aim for get information like:***
+- Date/Time when the incident was reported. Additionally, who detected the incident and/or who reported it?
+- How was the incident detected?
+- What was the incident? Phishing? System unavailability? etc.
+- Assemble a list of impacted systems (if relevant).
+- Document who has accessed the impacted systems and what actions have been taken. Make a note of whether this is an ongoing incident or if the suspicious activity has been stopped.
+- Physical location, operating systems, IP addresses and hostnames, system owner, system's purpose, current state of the system.
+- List of IP addresses, if malware is involved, time and date of detection, type of malware, systems impacted, export of malicious files with forensic information on them (such as hashes, copies of the files, etc.).
+
+***Important questions to answer when an incident occurs
+- What is the exploitation impact?
+- What are the exploitation requirements?
+- Can any business-critical systems be affected by the incident?
+- Are there any suggested remediation steps?
+- How many systems have been impacted?
+- Is the exploit being used in the wild?
+- Does the exploit have any worm-like capabilities?
