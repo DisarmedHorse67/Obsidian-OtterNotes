@@ -1,0 +1,1 @@
+Not quite. The correct answer is Amazon GuardDuty.Amazon GuardDuty es un servicio de detección de amenazas que monitorea continuamente comportamiento malicioso usando fuentes como VPC Flow Logs, CloudTrail y logs de DNS.

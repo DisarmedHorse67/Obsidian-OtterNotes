@@ -1,0 +1,1 @@
+Security Groups operan a nivel de instancia y son stateful (el tráfico de retorno se permite automáticamente). Las NACLs operan a nivel de subred y son stateless (hay que definir reglas de entrada y salida por separado).
