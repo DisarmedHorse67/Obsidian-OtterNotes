@@ -1,0 +1,9 @@
+That’s right. AWS Trusted Advisor analiza tu cuenta y da recomendaciones en categorías como optimización de costos, rendimiento, seguridad, tolerancia a fallos y límites de servicio.
+
+Key Words:
+
+
+What is it:
+
+
+Use Cases:
