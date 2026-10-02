@@ -1,9 +1,0 @@
-That’s right. AWS Shield protege contra ataques de Denegación de Servicio Distribuido (DDoS). Shield Standard es gratis; Shield Advanced ofrece protección mejorada.
-
-Key Words:
-
-
-What is it:
-
-
-Use Cases:
