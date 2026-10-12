@@ -27,5 +27,14 @@ Pasado conecta con menos pasado
 Futuro Perfecto:
 Ahora a futuro - asegura cosas.
 
+12/10/26
+present perfect
+by tomorrow, I will have finished my certification.
 
+By... + Noun + aux. will have + past participle + complement.
 
+Corrections
+when I had just meet them, I (used to) thought...
+(Me salto el "have/had")
+I (aux have) always...
+I hadn´t appreciated going everyday to school till now.
